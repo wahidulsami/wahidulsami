@@ -6,7 +6,11 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&width=435&lines=Full-Stack+Developer;React+%26+Node.js+Specialist;AI+%26+Machine+Learning+Enthusiast;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Frontend+Developer;Backend+Developer;UI%2FUX+Designer;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+
+</div>
 
 <br>
 
@@ -23,7 +27,7 @@
 - 🔭 Currently working on **AI-powered projects with Appwrite & Next.js**
 - 🌱 Learning **Three.js, WebGL, and Advanced AI integrations**
 - 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, Next.js, Node.js, MongoDB, AI/ML**
+- 💬 Ask me about **React, Express.js, Node.js, MongoDB**
 - 📫 How to reach me: **wahidul.dev@gmail.com**
 - ⚡ Fun fact: **I love creating smooth animations and micro-interactions**
 
@@ -35,7 +39,6 @@
 <div align="center">
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -51,7 +54,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white)
@@ -105,30 +107,7 @@
 
 </div>
 
----
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=wahidulsami&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
-
----
-
-## 📈 Contribution Stats
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=wahidulsami&color=blueviolet&style=for-the-badge)
-![Years Badge](https://badges.pufler.dev/years/wahidulsami?style=for-the-badge&color=blue)
-![Repos Badge](https://badges.pufler.dev/repos/wahidulsami?style=for-the-badge&color=red)
-![Commits Badge](https://badges.pufler.dev/commits/monthly/wahidulsami?style=for-the-badge&color=green)
-
-</div>
-
----
 
 ## ☕ Support Me
 
@@ -152,10 +131,3 @@ If you like my work and want to support me, consider buying me a coffee! ☕
 
 </div>
 
----
-
-<div align="center">
-  
-*Last updated: August 2025*
-
-</div>
