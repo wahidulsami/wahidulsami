@@ -115,7 +115,7 @@
 
 If you like my work and want to support me, consider buying me a coffee! ☕
 
-<p><a href="https://ko-fi.com/wahidulsami"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="wahidulsami" /></a></p><br><br>
+<p><a href="https://ko-fi.com/wahidulsami"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="wahidulsami" /></a></p>
 </div>
 
 ---
