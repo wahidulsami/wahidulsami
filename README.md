@@ -27,7 +27,7 @@
 - 🔭 Currently working on **AI-powered projects with Appwrite & Next.js**
 - 🌱 Learning **Three.js, WebGL, and Advanced AI integrations**
 - 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, Express.js, Node.js, MongoDB**
+- 💬 Ask me about **React, Next.js, Express.js, Node.js, MongoDB, Redis**
 - 📫 How to reach me: **wahidul.dev@gmail.com**
 - ⚡ Fun fact: **I love creating smooth animations and micro-interactions**
 
@@ -39,6 +39,7 @@
 <div align="center">
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -54,6 +55,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white)
@@ -129,4 +131,3 @@ If you like my work and want to support me, consider buying me a coffee! ☕
 **Happy Coding!** 🚀
 
 </div>
-
