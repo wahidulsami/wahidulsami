@@ -115,8 +115,7 @@
 
 If you like my work and want to support me, consider buying me a coffee! ☕
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/wahidulisly)
-
+<p><a href="https://ko-fi.com/wahidulsami"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="wahidulsami" /></a></p><br><br>
 </div>
 
 ---
