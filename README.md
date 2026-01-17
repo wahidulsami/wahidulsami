@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Wahidul Islam Sami
 
-### 👨‍💻 Full-Stack Developer | UI/UX Enthusiast | AI Explorer
+### 👨‍💻 Full-Stack Web Developer | UI/UX Enthusiast | AI Explorer
 
 <br>
 
@@ -24,12 +24,12 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **AI-powered projects with Appwrite & Next.js**
-- 🌱 Learning **Three.js, WebGL, and Advanced AI integrations**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, Next.js, Express.js, Node.js, MongoDB, Redis**
-- 📫 How to reach me: **wahidul.dev@gmail.com**
-- ⚡ Fun fact: **I love creating smooth animations and micro-interactions**
+- 🔭 Currently working on **AI-powered web applications with Next.js**
+- 🌱 Learning **Three.js, WebGL, and advanced AI integrations**
+- 👯 Looking to collaborate on **open-source projects**
+- 💬 Ask me about **React, Next.js, Express.js, Node.js, MongoDB, and Redis**
+- 📫 Email: **wahidul.dev@gmail.com**
+- ⚡ Fun fact: I love building smooth animations and clean micro-interactions
 
 ---
 
