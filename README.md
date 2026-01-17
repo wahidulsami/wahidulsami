@@ -8,7 +8,8 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Frontend+Developer;Backend+Developer;UI%2FUX+Designer;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Frontend+Developer;Backend+Developer;UI%2FUX+Designer;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+
 
 </div>
 
@@ -28,7 +29,7 @@
 - 🌱 Learning **Three.js, WebGL, and advanced AI integrations**
 - 👯 Looking to collaborate on **open-source projects**
 - 💬 Ask me about **React, Next.js, Express.js, Node.js, MongoDB, and Redis**
-- 📫 Email: **wahidul.dev@gmail.com**
+- 📫 Email: **wahidulislamsami5@gmail.com**
 - ⚡ Fun fact: I love building smooth animations and clean micro-interactions
 
 ---
