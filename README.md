@@ -106,7 +106,7 @@
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wahidulsami&theme=tokyo-night&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wahidulsami&theme=tokyo-night&hide_border=hide)
 
 </div>
 
