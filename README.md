@@ -92,21 +92,19 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=wahidulsami&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahidulsami&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wahidulsami&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=15"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahidulsami&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=15"/>
+</div>
+
+<div align="center">
+
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wahidulsami&theme=tokyonight&hide_border=true&border_radius=15)
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wahidulsami&theme=tokyonight)
-
-</div>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wahidulsami&theme=tokyo-night&hide_border=hide)
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wahidulsami&theme=tokyo-night&hide_border=true&radius=16)
 
 </div>
 
