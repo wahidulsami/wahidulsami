@@ -20,7 +20,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=firefox&logoColor=white&color=FF7139&labelColor=000000)](https://github.com/wahidulsami)
 
 </div>
-<img src="https://komarev.com/ghpvc/?username=wahidulsami&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="profile views" />
+
 ---
 
 ## 🚀 About Me
