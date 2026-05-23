@@ -1,113 +1,56 @@
 <div align="center">
 
-# Hi 👋, I'm Wahidul Islam Sami
+# Wahidul Islam Sami
+**Full-Stack Web Developer & UI/UX Enthusiast**
 
-### 👨‍💻 Full-Stack Web Developer | UI/UX Enthusiast | AI Explorer
-
-<br>
-
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Frontend+Developer;Backend+Developer;Always+Learning+New+Technologies)](https://git.io/typing-svg)
-
-
-</div>
-
-<br>
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/wahidul_sami?logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=000000)](https://twitter.com/wahidul_sami)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5&labelColor=000000)](https://www.linkedin.com/in/wahidul-islam-sami-804330341)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=firefox&logoColor=white&color=FF7139&labelColor=000000)](https://github.com/wahidulsami)
+[![Portfolio](https://img.shields.io/badge/Portfolio-samicode.me-000000?style=flat-square&logo=vercel&logoColor=white)](https://samicode.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wahidul-islam-sami-804330341)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/wahidul_sami)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/wahidulsami)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## ✦ About Me
 
-- 🔭 Currently working on **AI-powered web applications with Next.js**
-- 🌱 Learning **Three.js, WebGL, and advanced AI integrations**
-- 👯 Looking to collaborate on **open-source projects**
-- 💬 Ask me about **React, Next.js, Express.js, Node.js, MongoDB, and Redis**
-- 📫 Email: **wahidulislamsami5@gmail.com**
-- ⚡ Fun fact: I love building smooth animations and clean micro-interactions
+Currently building AI-powered web applications with Next.js, focusing on minimalist design and premium user experiences. I love crafting clean micro-interactions and maintaining robust, scalable architectures.
 
----
+- 🚀 **Focus:** React, Next.js, Node.js, TypeScript
+- 🌱 **Exploring:** Three.js, WebGL, AI Integrations
+- 🤝 **Collaboration:** Open-source projects & modern web tools
+- 📫 **Reach out:** wahidulislamsami5@gmail.com
 
-## 🛠️ Tech Stack
+## ✦ Tech Stack
 
 ### Frontend
-<div align="center">
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwind-css&logoColor=38B2AC)
+![Redux](https://img.shields.io/badge/Redux-000000?style=flat-square&logo=redux&logoColor=764ABC)
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=339933)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=47A248)
+![Redis](https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=DC382D)
+![Appwrite](https://img.shields.io/badge/Appwrite-000000?style=flat-square&logo=appwrite&logoColor=FD366E)
 
-</div>
-
-### Backend
-<div align="center">
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white)
-
-</div>
-
-### Tools & Technologies
-<div align="center">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/wahidul_sami)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wahidul-islam-sami-804330341)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_wahidul__/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wahidulsami)
-
-</div>
-
----
-
-
-
-## ☕ Support Me
-
-<div align="center">
-
-If you like my work and want to support me, consider buying me a coffee! ☕
-
-<p><a href="https://ko-fi.com/wahidulsami"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="wahidulsami" /></a></p>
-</div>
+### Tools & Infrastructure
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F05032)
+![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=2496ED)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-000000?style=flat-square&logo=cloudflare&logoColor=F38020)
 
 ---
 
 <div align="center">
 
-### 💫 "Code is like humor. When you have to explain it, it's bad." – Cory House
+*"Code is like humor. When you have to explain it, it's bad." – Cory House*
 
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<br>
 
-**Happy Coding!** 🚀
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-000000?style=flat-square&logo=ko-fi&logoColor=FFDD00)](https://ko-fi.com/wahidulsami)
 
 </div>
