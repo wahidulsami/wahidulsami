@@ -1,7 +1,7 @@
 <div align="center">
 
 # Wahidul Islam Sami
-**Full-Stack Web Developer & UI/UX Enthusiast**
+**Creative Full-Stack Web Developer**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-samicode.me-000000?style=flat-square&logo=vercel&logoColor=white)](https://samicode.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wahidul-islam-sami-804330341)
@@ -14,11 +14,13 @@
 
 ## ✦ About Me
 
-Currently building AI-powered web applications with Next.js, focusing on minimalist design and premium user experiences. I love crafting clean micro-interactions and maintaining robust, scalable architectures.
+Hey there! 👋 I'm a Full-Stack Developer who genuinely loves turning complex problems into clean, beautiful web applications. Right now, I'm balancing my HSC exam preparations with my passion for building software—whether that's designing a new invoice manager, crafting a blog platform, or developing productivity extensions. 
 
-- 🚀 **Focus:** React, Next.js, Node.js, TypeScript
-- 🌱 **Exploring:** Three.js, WebGL, AI Integrations
-- 🤝 **Collaboration:** Open-source projects & modern web tools
+I'm a huge advocate for minimalist design and premium user experiences. I spend a lot of time in Figma planning interfaces, and I use Framer Motion to bring them to life with smooth, natural animations. When I'm not writing code, you can probably find me tweaking my mechanical keyboard setup, upgrading my PC rig, or catching an FC Barcelona match.
+
+- 🚀 **Focus:** Building full-stack apps with React, Next.js, Node.js, and TypeScript
+- 🎨 **Design:** Prototyping in Figma & animating with Framer Motion
+- 🌱 **Exploring:** Three.js, WebGL, and integrating AI into daily workflows
 - 📫 **Reach out:** wahidulislamsami5@gmail.com
 
 ## ✦ Tech Stack
