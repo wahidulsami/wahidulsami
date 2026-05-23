@@ -1,82 +1,70 @@
+
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=6E7681&center=true&vCenter=true&width=480&lines=Full-Stack+Web+Developer;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js;Building+thoughtful+digital+experiences." alt="Typing SVG" />
-
-<br/>
 
 # Wahidul Islam Sami
+**Full-Stack Web Developer & UI/UX Enthusiast**
 
-**Full-Stack Developer &nbsp;·&nbsp; UI/UX Enthusiast &nbsp;·&nbsp; AI Explorer**
-
-<br/>
-
-[![Twitter](https://img.shields.io/badge/@wahidul__sami-%23000000.svg?style=flat-square&logo=x&logoColor=white)](https://twitter.com/wahidul_sami)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wahidul-islam-sami-804330341)&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_wahidul__/)&nbsp;
-[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:wahidulislamsami5@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-samicode.me-000000?style=flat-square&logo=vercel&logoColor=white)](https://samicode.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wahidul-islam-sami-804330341)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/wahidul_sami)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/wahidulsami)
 
 </div>
 
 ---
 
-## About
+## ✦ About Me
 
-I'm a full-stack developer focused on building clean, performant web applications. Currently deep into **AI-powered Next.js apps** and exploring **Three.js & WebGL** on the side. I care about the details — from architecture decisions down to micro-interactions.
+Currently building AI-powered web applications with Next.js, focusing on minimalist design and premium user experiences. I enjoy crafting smooth micro-interactions, scalable architectures, and modern interfaces that feel simple and intuitive.
 
-- 🔭 &nbsp;Working on **AI-integrated web applications**
-- 🌱 &nbsp;Currently learning **Three.js, WebGL, advanced AI integrations**
-- 🤝 &nbsp;Open to **open-source collaboration**
-- 💬 &nbsp;Reach me about **React, Next.js, Node.js, MongoDB, Redis**
-
----
-
-## Tech Stack
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
-
-**Backend & Database**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+- 🚀 **Focus:** React, Next.js, Node.js, TypeScript
+- 🌱 **Exploring:** Three.js, WebGL, AI Integrations
+- 🤝 **Collaboration:** Open-source projects & modern web tools
+- ⚡ **Style:** Clean UI, performance-first development
+- 📫 **Reach out:** wahidulislamsami5@gmail.com
 
 ---
 
-## GitHub Stats
+## ✦ Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwind-css&logoColor=38B2AC)
+![Redux](https://img.shields.io/badge/Redux-000000?style=flat-square&logo=redux&logoColor=764ABC)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=339933)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=47A248)
+![Redis](https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=DC382D)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=4479A1)
+![Firebase](https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=FFCA28)
+![Appwrite](https://img.shields.io/badge/Appwrite-000000?style=flat-square&logo=appwrite&logoColor=FD366E)
+
+### Tools & Infrastructure
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F05032)
+![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=2496ED)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-000000?style=flat-square&logo=cloudflare&logoColor=F38020)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+![Postman](https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=FF6C37)
+
+---
+
+## ✦ Philosophy
+
+> “Code is like humor. When you have to explain it, it’s bad.”  
+> — Cory House
+
+I believe great products feel effortless. Clean code, thoughtful design, and smooth interactions create experiences people actually enjoy using.
+
+---
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wahidulsami&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=24292f&text_color=57606a&icon_color=0969da)&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wahidulsami&layout=compact&hide_border=true&bg_color=00000000&title_color=24292f&text_color=57606a)
-
-</div>
-
----
-
-<div align="center">
-
-*"Code is like humor. When you have to explain it, it's bad."* — Cory House
-
-<br/>
-
-[![Ko-fi](https://img.shields.io/badge/Buy_me_a_coffee-FF5E5B?style=flat-square&logo=kofi&logoColor=white)](https://ko-fi.com/wahidulsami)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-000000?style=flat-square&logo=ko-fi&logoColor=FFDD00)](https://ko-fi.com/wahidulsami)
 
 </div>
