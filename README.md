@@ -3,7 +3,7 @@
 # Wahidul Islam Sami
 **Full-Stack Web Developer**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wahidul-islam-sami-804330341)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wahidul-islam-sami)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/wahidul_sami)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/wahidulsami)
 
