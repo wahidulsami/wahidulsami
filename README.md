@@ -11,7 +11,7 @@
 
 ## 🙋‍♂️ About Me
 
-Hey there! 👋 I'm a Full-Stack Developer passionate about crafting modern, aesthetic, and functional web applications.
+Hey there! 👋 I'm a Full-Stack Web Developer passionate about crafting modern, aesthetic, and functional web applications.
 
 - 🚀 **Focus:** Building scalable apps with React, Next.js, Node.js, and TypeScript
 - 🎨 **Design:** Prototyping and designing intuitive, clean interfaces
