@@ -13,11 +13,11 @@
 
 Hey there! 👋 I'm a Full-Stack Web Developer passionate about crafting modern, aesthetic, and functional web applications.
 
-- 🚀 **Focus:** Building scalable apps with React, Next.js, Node.js, and TypeScript
-- 🎨 **Design:** Prototyping and designing intuitive, clean interfaces
-- 🌱 **Exploring:** Three.js, WebGL, and integrating AI into daily developer workflows
+- 🚀 **Focus:** Building scalable full-stack applications with React, Next.js, Node.js, TypeScript, and modern backend technologies
+- ☁️ **Cloud & DevOps:** Deploying and hosting applications using AWS, Azure, Docker, CI/CD, and cloud infrastructure
+- 🎨 **Design:** Prototyping and designing clean, intuitive, and responsive user interfaces
+- 🌱 **Exploring:** Three.js, WebGL, AI integration, and modern cloud technologies
 - 📫 **Reach out:** [wahidulislamsami5@gmail.com](mailto:wahidulislamsami5@gmail.com)
-
 ---
 
 ## 🛠️ Tech Stack
