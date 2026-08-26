@@ -3,7 +3,11 @@
 # Wahidul Islam Sami
 ### Full-Stack Web Developer
 
-<a href="https://www.linkedin.com/in/wahidul-islam-sami"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://twitter.com/wahidul_sami"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a> <a href="https://github.com/wahidulsami"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/wahidul-islam-sami"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/wahidul_sami"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://github.com/wahidulsami"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
 
 </div>
 
