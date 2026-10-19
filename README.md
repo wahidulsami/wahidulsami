@@ -56,6 +56,6 @@ Hey there! 👋 I'm a Full-Stack Web Developer passionate about crafting modern,
 
 <br>
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-000000?style=for-the-badge&logo=ko-fi&logoColor=FFDD00)](https://ko-fi.com/wahidulsami)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-000000?style=for-the-badge&logo=gumroad&logoColor=FF90E8)](https://wahidulsami.gumroad.com/l/wahidulsami)
 
 </div>
